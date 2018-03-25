@@ -1,5 +1,5 @@
 # OMA - Exam schedule optimization
-SOlution for penalty based college exam scheduling problem by using Graph theory and Tabu search algorithm to discover a feasible and quick solution and consequently optimizing it using Variable Neighbourhood Search metaheuristic.
+Our solution for penalty based college exam scheduling problem by using Graph theory and multithreaded Tabu search algorithm to discover a feasible and quick solution and consequently optimizing it using multithreaded implementation of Variable Neighbourhood Search metaheuristic.
 
 
 ## Prerequisites
@@ -14,6 +14,8 @@ SOlution for penalty based college exam scheduling problem by using Graph theory
 - OpenTS
 - Guava
 - JAMES 
+- Error Prone
+- Animal Sniffer
 - args4j
 ```
 
