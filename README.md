@@ -26,7 +26,7 @@ Politecnico di Torino
 University project for Optimization Methods and Algorithms course
 
 ## When?
-Fall 2018
+Fall 2017
 
 ## Status?
 Closed
