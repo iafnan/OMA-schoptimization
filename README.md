@@ -1,5 +1,5 @@
 # OMA - Exam schedule optimization
-Our solution for constrained, penalty based college exam scheduling problem by using Graph theory and multithreaded Tabu search algorithm to discover a feasible and quick solution and consequently optimizing it using multithreaded implementation of Variable Neighbourhood Search metaheuristic.
+Our solution for constrained, penalty based college exam scheduling problem by using Graph theory and multithreaded Tabu search algorithm to discover feasible and quick solutions. Thus consequent optimization of the same using multithreaded implementation of Variable Neighbourhood Search metaheuristic.
 
 
 ## Prerequisites
